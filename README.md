@@ -49,5 +49,10 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 #### See the repo [Link](https://github.com/PritamSarbajna/lame-jokes-chrome-extension)
 
+## Open Source Contributions
+
+- [OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423)
+  added a word
+
 ## Contact
 Please find me on [LinkedIn](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)
