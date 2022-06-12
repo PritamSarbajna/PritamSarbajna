@@ -53,6 +53,9 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 - [OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423)
   added a word
+  
+## GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=PritamSarbajna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## Contact
 Please find me on [LinkedIn](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)
