@@ -32,7 +32,7 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 ## Projects
 
-- ### Crypto Tracker
+- ### ***Crypto Tracker***
 
 #### About
 - This is a django web application for tracking data related to cryptocurrency.
@@ -41,7 +41,9 @@ I'm Pritam Sarbajna, 18yr old developer from India
 #### See the project [Link](https://crypto-api-django.herokuapp.com/)
 #### See the repo [Link](https://github.com/PritamSarbajna/crypto-tracker-website)
 
-- ### Lame Joke Chrome extension
+<br>
+
+- ### ***Lame Joke Chrome extension***
 
 #### About
 - Everytime you click it, there is always a lame joke waiting for you!
