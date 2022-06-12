@@ -23,7 +23,6 @@ I'm Pritam Sarbajna, 18yr old developer from India
 - XML
 
 #### Database
-- PostgreSQL
 - SQLite
 
 #### OS
