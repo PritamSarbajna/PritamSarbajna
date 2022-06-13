@@ -37,6 +37,10 @@ I'm Pritam Sarbajna, 18yr old developer from India
 - This is a django web application for tracking data related to cryptocurrency.
 -  Coingecko api is used to fetch data.
 
+#### Preview
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=PritamSarbajna&repo=crypto-tracker-website&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 #### See the project [Link](https://crypto-api-django.herokuapp.com/)
 #### See the repo [Link](https://github.com/PritamSarbajna/crypto-tracker-website)
 
@@ -47,6 +51,10 @@ I'm Pritam Sarbajna, 18yr old developer from India
 #### About
 - Everytime you click it, there is always a lame joke waiting for you!
 - icanhazdadjoke api used to fetch the jokes
+
+#### Preview
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=PritamSarbajna&repo=lame-jokes-chrome-extension&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 #### See the repo [Link](https://github.com/PritamSarbajna/lame-jokes-chrome-extension)
 
