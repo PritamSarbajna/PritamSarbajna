@@ -52,9 +52,11 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 ## Open Source Contributions
 
-- [hacktober-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115) added my username
-- [OpenQ-TestRepo](https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423)
-  added a word
+| Repositories name  | Contribution                    | Links                                                                 |
+|--------------------|---------------------------------|-----------------------------------------------------------------------|
+| hacktober-practice | added my username               | https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115 |
+| OpenQ-TestRepo     | added a word                    | https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423  |
+| LinkFree           | made changes to CONTRIBUTING.md | https://github.com/EddieHubCommunity/LinkFree/pull/1387               |
   
 ## GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=PritamSarbajna&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
