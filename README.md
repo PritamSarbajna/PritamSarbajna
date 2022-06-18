@@ -62,6 +62,7 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 | Repositories name  | Contribution                    | Links                                                                 |
 |--------------------|---------------------------------|-----------------------------------------------------------------------|
+| Atelas-Esports-Website | added preview of the website              | https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3 |
 | hacktober-practice | added my username               | https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115 |
 | OpenQ-TestRepo     | added a word                    | https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423  |
 | LinkFree           | made changes to CONTRIBUTING.md | https://github.com/EddieHubCommunity/LinkFree/pull/1387               |
