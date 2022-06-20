@@ -30,6 +30,14 @@
  <img src="https://img.icons8.com/color/48/undefined/django.png"/>
  <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+ 
+ 
+ <h3 align="center"> Tools </h3>
+     
+ <img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/pycharm.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/>
 
 </td>
 
