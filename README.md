@@ -5,30 +5,49 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 ## Skills
 
-#### Programming
-- C, C++
-- Python
-- Java
-- Bash
+<table>
+<tr>
+<td width="50%" valign="top">
+ <h3 align="center"> Programming </h3>
+      
+   - C, C++
+   - Python
+   - Java
+   - Bash
 
+     
+<h3 align="center"> Web Development </h3>
+     
+ - HTML, CSS, JavaScript
+ - Django
+ - Bootstrap
+ - React js
 
-#### Web Development
-- HTML, CSS, JavaScript
-- Django
-- Bootstrap
-- React js
+</td>
 
-#### Android development
-- Java
-- XML
+     
+<td width="50%" valign="top">
 
-#### Database
-- SQLite
+<h3 align="center"> Android development </h3>
+  
+  - Java
+  - XML
 
-#### OS
+  
+<h3 align="center"> Database </h3>
+     
+  - SQLite
+     
+<h3 align="center"> OS </h3>
+
 - Windows
 - Linux
 
+![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
+</td>
+</tr>
+
+</table>
 
 ## Open Source Contributions
 
