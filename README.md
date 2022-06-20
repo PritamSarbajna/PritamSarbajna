@@ -1,9 +1,15 @@
-# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
+<div align="center">
+ <img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+</div>
 
-## About
-I'm Pritam Sarbajna, 18yr old developer from India
+# 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 
-## Skills
+<br>
+
+## :man_technologist: About
+<strong> I'm Pritam Sarbajna, 18yr old developer from India </trong>
+
+## :hammer_and_wrench: Skills
 
 <table>
 <tr>
@@ -51,7 +57,7 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 </table>
 
-## Open Source Contributions
+## :computer: Open Source Contributions
 
 | Repositories name  | Contribution                    | Links                                                                 |
 |--------------------|---------------------------------|-----------------------------------------------------------------------|
@@ -60,15 +66,16 @@ I'm Pritam Sarbajna, 18yr old developer from India
 | OpenQ-TestRepo     | added a word                    | https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423  |
 | LinkFree           | made changes to CONTRIBUTING.md | https://github.com/EddieHubCommunity/LinkFree/pull/1387               |
   
-## GitHub Stats:
+## :trophy: GitHub Stats:
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PritamSarbajna?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PritamSarbajna&theme=tokyonight_duo">
 <img src="https://activity-graph.herokuapp.com/graph?username=PritamSarbajna&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true" >
 
-## Contact
+## :phone: Contact
   <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
   <a href="https://pritam-sarbajna.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
 
-## Contributions
-![snake gif](https://github.com/PritamSarbajna/PritamSarbajna/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+ <img src="https://github.com/PritamSarbajna/PritamSarbajna/blob/output/github-contribution-grid-snake.svg">
+</div>
