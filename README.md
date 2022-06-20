@@ -61,6 +61,7 @@
 
 | Repositories name  | Contribution                    | Links                                                                 |
 |--------------------|---------------------------------|-----------------------------------------------------------------------|
+| awesome-github-profile-readme    | added a profile                    | https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/841  |
 | Atelas-Esports-Website | added preview of the website              | https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3 |
 | hacktober-practice | added my username               | https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115 |
 | OpenQ-TestRepo     | added a word                    | https://github.com/OpenQDev/OpenQ-TestRepo/pull/354#issue-1268472423  |
