@@ -10,18 +10,20 @@ I'm Pritam Sarbajna, 18yr old developer from India
 <td width="50%" valign="top">
  <h3 align="center"> Programming </h3>
       
-   - C, C++
-   - Python
-   - Java
-   - Bash
+   <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/>
+   <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
+   <img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/>
 
      
 <h3 align="center"> Web Development </h3>
      
- - HTML, CSS, JavaScript
- - Django
- - Bootstrap
- - React js
+ <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/css3.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/django.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
+ <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
 
 </td>
 
@@ -30,19 +32,19 @@ I'm Pritam Sarbajna, 18yr old developer from India
 
 <h3 align="center"> Android development </h3>
   
-  - Java
-  - XML
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-xml-file-file-extension-fauzidea-flat-fauzidea.png" width="10%"/>
 
   
 <h3 align="center"> Database </h3>
      
-  - SQLite
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
      
 <h3 align="center"> OS </h3>
 
-- Windows
-- Linux
-
+  <img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
+ 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
 </tr>
@@ -65,8 +67,8 @@ I'm Pritam Sarbajna, 18yr old developer from India
 <img src="https://activity-graph.herokuapp.com/graph?username=PritamSarbajna&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true" >
 
 ## Contact
-- Please find me on [LinkedIn](https://www.linkedin.com/in/pritam-sarbajna-74945821b/)
-- Checkout my [website](https://pritam-sarbajna.netlify.app/)
+  <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
+  <a href="https://pritam-sarbajna.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
 
 ## Contributions
 ![snake gif](https://github.com/PritamSarbajna/PritamSarbajna/blob/output/github-contribution-grid-snake.svg)
