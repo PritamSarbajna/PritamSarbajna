@@ -69,7 +69,7 @@
 
 | Repositories name  | Contribution                    | Links                                                                 |
 |--------------------|---------------------------------|-----------------------------------------------------------------------|
-| tools | Fixed a code bug              | https://github.com/nf-core/tools/pull/1649 |
+| tools | fixed a code bug              | https://github.com/nf-core/tools/pull/1649 |
 | awesome-github-profile-readme    | added a profile                    | https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/841  |
 | Atelas-Esports-Website | added preview of the website              | https://github.com/Susmita-Dey/Atelas-Esports-Website/pull/3 |
 | hacktober-practice | added my username               | https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1115 |
