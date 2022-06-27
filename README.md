@@ -7,7 +7,7 @@
 <br>
 
 ## :man_technologist: About
-<strong> I'm Pritam Sarbajna, 18yr old developer from India </trong>
+<strong> I'm Pritam Sarbajna, 18yr old developer and CSE undergrad from India </trong>
 
 ## :hammer_and_wrench: Skills
 
