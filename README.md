@@ -30,6 +30,7 @@
  <img src="https://img.icons8.com/color/48/undefined/django.png"/>
  <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
  <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
  
  
  <h3 align="center"> Tools </h3>
