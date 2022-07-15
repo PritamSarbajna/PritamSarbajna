@@ -20,6 +20,7 @@
    <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
    <img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
    <img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/>
+   <img src="https://img.icons8.com/dusk/64/000000/php-logo.png" width="12%"/>
 
      
 <h3 align="center"> Web Development </h3>
