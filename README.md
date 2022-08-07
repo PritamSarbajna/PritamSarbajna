@@ -87,10 +87,8 @@
 
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
-  <a href="https://pritam-sarbajna.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
+  <a href="https://pritam-sarbajna-portfolio.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
 
-<!--
 <div align="center">
  <img src="https://github.com/PritamSarbajna/PritamSarbajna/blob/output/github-contribution-grid-snake.svg">
 </div>
--->
