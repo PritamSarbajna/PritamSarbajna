@@ -52,7 +52,8 @@
 
   
 <h3 align="center"> Database </h3>
-     
+
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/>     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
