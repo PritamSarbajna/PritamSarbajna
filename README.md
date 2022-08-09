@@ -55,6 +55,7 @@
      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
      
 <h3 align="center"> OS </h3>
 
