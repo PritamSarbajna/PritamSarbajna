@@ -43,7 +43,7 @@
 </td>
 
      
-<td width="50%" valign="top">
+<td width="50%" valign="top"> 
 
 <h3 align="center"> Android development </h3>
   
