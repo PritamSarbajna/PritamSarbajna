@@ -16,10 +16,10 @@
 <td width="50%" valign="top">
  <h3 align="center"> Programming </h3>
       
-   <img src="https://img.icons8.com/color/48/undefined/c-programming.png"/>
-   <img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/>
-   <img src="https://img.icons8.com/fluency/48/undefined/python.png"/>
-   <img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/>
+   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/undefined/c-programming.png"/></a>
+   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/undefined/c-plus-plus-logo.png"/></a>
+   <a href="https://www.python.org/"><img src="https://img.icons8.com/fluency/48/undefined/python.png"/></a>
+   <a href="https://www.gnu.org/software/bash/"><img src="https://img.icons8.com/plasticine/100/undefined/bash.png" width="12%"/></a>
 
      
 <h3 align="center"> Web Development </h3>
