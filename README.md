@@ -53,7 +53,7 @@
   
 <h3 align="center"> Database </h3>
      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/>
+ <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/> </p>
      
 <h3 align="center"> OS </h3>
 
