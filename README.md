@@ -59,8 +59,8 @@
      
 <h3 align="center"> OS </h3>
 
-  <img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/>
+  <a href="https://www.microsoft.com/en-in/"><img src="https://img.icons8.com/color/48/undefined/windows-logo.png"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/undefined/linux--v1.png"/></a>
  
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>
