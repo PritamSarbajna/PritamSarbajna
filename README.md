@@ -24,13 +24,13 @@
      
 <h3 align="center"> Web Development </h3>
      
- <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
- <img src="https://img.icons8.com/color/48/undefined/css3.png"/>
- <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
- <img src="https://img.icons8.com/color/48/undefined/django.png"/>
- <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
- <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
- <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
+ <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/></a>
+ <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.icons8.com/color/48/undefined/css3.png"/></a>
+ <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/></a>
+ <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/undefined/django.png"/></a>
+ <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/></a>
+ <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/undefined/react-native.png"/></a>
+ <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
  
  
  <h3 align="center"> Tools </h3>
