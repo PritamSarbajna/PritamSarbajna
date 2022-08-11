@@ -35,10 +35,10 @@
  
  <h3 align="center"> Tools </h3>
      
- <img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/>
- <img src="https://img.icons8.com/color/48/undefined/pycharm.png"/>
- <img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/>
- <img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/>
+ <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
+ <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.icons8.com/color/48/undefined/pycharm.png"/></a>
+ <a href="https://www.jetbrains.com/idea/"><img src="https://img.icons8.com/color/48/undefined/intellij-idea.png"/></a>
+ <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/></a>
 
 </td>
 
