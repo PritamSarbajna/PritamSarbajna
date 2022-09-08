@@ -80,6 +80,7 @@
   | developer-portfolios | fixed UI bug        | https://github.com/opensourcecommunity-hub/developer-portfolios/pull/32 |
   | Website | fixed scrollbar issue of [novu.co](https://novu.co/)           | https://github.com/novuhq/website/pull/22 |
   | Portfolio | fixed heading problem for smalling screens             | https://github.com/schmelto/Portfolio/pull/218 |
+  | CodeHelp-DSA-Busted-Series | finished incomplete code   | https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/306 |
   | tools | fixed a code bug              | https://github.com/nf-core/tools/pull/1649 |
   | awesome-github-profile-readme    | added a profile                    | https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/841  |
   | LinkFree     | added my profile in a json file                   | https://github.com/EddieHubCommunity/LinkFree/pull/1598  |
