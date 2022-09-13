@@ -6,7 +6,7 @@
 
 <br>
 
-## :man_technologist: About
+## :point_right: About me
 <strong> I'm Pritam Sarbajna, 19yr old sophomore IT undergrad, developer from India </strong>
 
 ## :hammer_and_wrench: Skills
@@ -95,6 +95,15 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PritamSarbajna&theme=tokyonight_duo">
 <img src="https://activity-graph.herokuapp.com/graph?username=PritamSarbajna&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true" >
+
+## :man_technologist: Coding profiles
+
+<div align="center">
+ <a href="https://auth.geeksforgeeks.org/user/pritam_sarbajna/practice/"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="Website"/></a>
+ <a href="https://leetcode.com/Coder_Sarbajna/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
+ <a href="https://codeforces.com/profile/pritamsarbajna10"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Website"/></a>
+ <a href="https://www.hackerrank.com/Pritamsarbajna10"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
+</div> 
 
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
