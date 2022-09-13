@@ -103,6 +103,7 @@
  <a href="https://leetcode.com/Coder_Sarbajna/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Website"/></a>
  <a href="https://codeforces.com/profile/pritamsarbajna10"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Website"/></a>
  <a href="https://www.hackerrank.com/Pritamsarbajna10"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Website"/></a>
+ <a href="https://www.codechef.com/users/pritam_sarbjna"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
 </div> 
 
 ## :phone: Contact
