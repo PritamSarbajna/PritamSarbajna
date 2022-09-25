@@ -106,6 +106,13 @@
  <a href="https://www.codechef.com/users/pritam_sarbjna"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Website"/></a>
 </div> 
 
+## :triangular_flag_on_post: CTF profiles:
+
+<div align="center">
+ <a href="https://tryhackme.com/p/PritamSarbajna"><img src="https://tryhackme-badges.s3.amazonaws.com/PritamSarbajna.png" alt="TryHackMe"></a>
+ <a href="https://app.hackthebox.com/profile/928095"><img src="http://www.hackthebox.eu/badge/image/928095" alt="Hack The Box"></a>
+</div>
+
 ## :phone: Contact
   <a href="https://www.linkedin.com/in/pritam-sarbajna-74945821b/"><img src="https://img.icons8.com/color/48/undefined/linkedin.png" alt="Linkedin"/></a>
   <a href="https://pritam-sarbajna-portfolio.netlify.app/"><img src="https://img.icons8.com/doodle/48/undefined/domain.png" alt="Website"/></a>
