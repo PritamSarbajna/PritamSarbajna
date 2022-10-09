@@ -77,6 +77,7 @@
   | Repositories name  | Contribution                    | Links                                                                 |
   |--------------------|---------------------------------|-----------------------------------------------------------------------|
   | CodeChamp-s-Website | fixed links are opening in same tab        | https://github.com/DeveloperAshish8/CodeChamp-s-Website/pull/3 |
+  | website | fixed navbar issue        | https://github.com/BugBustersCommunity/website/pull/60 |
   | developer-portfolios | fixed UI bug        | https://github.com/opensourcecommunity-hub/developer-portfolios/pull/32 |
   | Website | fixed scrollbar issue of [novu.co](https://novu.co/)           | https://github.com/novuhq/website/pull/22 |
   | Portfolio | fixed heading problem for smalling screens             | https://github.com/schmelto/Portfolio/pull/218 |
