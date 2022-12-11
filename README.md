@@ -96,7 +96,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PritamSarbajna?cardType=github&theme=nightowl)](https://git.io/awesome-stats-card)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PritamSarbajna&theme=tokyonight_duo">
-<img src="https://activity-graph.herokuapp.com/graph?username=PritamSarbajna&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true" >
 
 ## :man_technologist: Coding profiles
 
