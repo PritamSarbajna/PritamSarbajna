@@ -76,6 +76,7 @@
 
   | Repositories name  | Contribution                    | Links                                                                 |
   |--------------------|---------------------------------|-----------------------------------------------------------------------|
+  | JavaScript-Projects | Created UI for weather website       | https://github.com/Shweta2024/JavaScript-Projects/pull/55#issuecomment-1345544774 |
   | CodeChamp-s-Website | fixed links are opening in same tab        | https://github.com/DeveloperAshish8/CodeChamp-s-Website/pull/3 |
   | website | fixed navbar issue        | https://github.com/BugBustersCommunity/website/pull/60 |
   | developer-portfolios | fixed UI bug        | https://github.com/opensourcecommunity-hub/developer-portfolios/pull/32 |
