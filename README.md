@@ -31,8 +31,11 @@
  <a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/></a>
  <a href="https://reactjs.org/"><img src="https://img.icons8.com/color/48/undefined/react-native.png"/></a>
  <a href="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
- 
- 
+ <br />
+ <a href="https://flask.palletsprojects.com/en/2.3.x/"><img width="50" height="50" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask" /></a>
+ <a href="https://fastapi.tiangolo.com/lo/"><img width="45" height="45" src="https://github.com/PritamSarbajna/PritamSarbajna/assets/90236635/1bdf48d6-08c3-411e-af8c-80310596f131" /></a>
+  <a href="https://nodejs.org/en"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/></a>
+
  <h3 align="center"> Tools </h3>
      
  <a href="https://code.visualstudio.com/"><img src="https://img.icons8.com/fluency/48/undefined/visual-studio.png"/></a>
@@ -41,8 +44,7 @@
  <a href="https://developer.android.com/studio"><img src="https://img.icons8.com/color/48/undefined/android-studio--v3.png"/></a>
 
 </td>
-
-     
+   
 <td width="50%" valign="top"> 
 
 <h3 align="center"> Android development </h3>
@@ -56,6 +58,7 @@
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" width="10%"/></a>     <a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="10%"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
+  <a href="https://www.mysql.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/></a>
      
 <h3 align="center"> OS </h3>
 
